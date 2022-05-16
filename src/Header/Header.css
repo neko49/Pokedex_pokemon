@@ -1,0 +1,56 @@
+.container-header{
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #342D2D;
+}
+
+.img{
+  height: 40px;
+  right: auto;
+}
+
+.search{
+  display: flex;
+  justify-content: left;
+  align-items: inherit;
+  flex-direction: column;
+}
+
+.menu{
+position: relative;
+right: 0px;
+margin-left: 0;
+width: 100%;
+}
+
+.button{
+  position:absolute;
+  right: 0px;
+  width: 40px;
+  height: 40px;
+}
+
+.button1{
+  position:absolute;
+  right: 60px;
+  width: 40px;
+  height: 40px;
+}
+
+.select{
+  right: 10px;
+
+}
+
+
+.select2{
+  right: 0px;
+  position: absolute;
+
+}
+
+.darkmode{
+  right: 0px;
+  position: absolute;
+}
