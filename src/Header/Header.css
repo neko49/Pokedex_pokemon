@@ -37,7 +37,10 @@ width: 100%;
   width: 40px;
   height: 40px;
 }
-
+.btnsetting{
+  position: absolute !important;
+  top: 4px;
+}
 .select{
   right: 10px;
 
@@ -53,4 +56,5 @@ width: 100%;
 .darkmode{
   right: 0px;
   position: absolute;
+  top: 15px;
 }
